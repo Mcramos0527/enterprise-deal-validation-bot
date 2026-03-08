@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Enterprise Deal Validation Bot
 
 A Python demo project that simulates an enterprise automation workflow for processing pending approval records in an ERP-style environment.
@@ -48,3 +49,13 @@ enterprise-deal-validation-bot/
 ├── attachments/
 ├── output/
 └── src/
+=======
+## Business Context
+
+In enterprise environments, pricing deals often require validation across multiple systems
+before approval. This project simulates an automation tool used to validate pricing deals
+against ERP data, approval history and margin thresholds before submission.
+
+The system demonstrates how rule-based automation can reduce manual validation effort
+and improve auditability in finance and sales operations.
+>>>>>>> 4fa5083574f460b04f961cfd5bb8b46e8da393be
