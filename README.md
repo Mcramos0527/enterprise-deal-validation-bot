@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Enterprise Deal Validation Bot
 
 A Python demo project that simulates an enterprise automation workflow for processing pending approval records in an ERP-style environment.
